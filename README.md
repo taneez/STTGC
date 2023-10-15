@@ -1,5 +1,5 @@
-# STTGC
-## Abstaract
+# STTGC-Net: Spatial-Temporal Transformer with Graph Convolution for Skeleton-Based Action Recognition
+## Abstract
 Skeleton data play an important role in human action recognition due to the compact and distinct information of human poses provided by the skeleton data. Skeleton-based action recognition is gaining interest due to the availability of Kinect cameras at a reasonable price. 
 With the growing popularity of Geometric deep learning, Graph Convolutional networks (GCN) are extensively used for processing skeleton data, due to their ability to model data topology. 
 It has been found that Spatial-Temporal Graph Convolutional Networks (ST-GCN) are efficient in learning both spatial and temporal dependencies on non-Euclidean data, such as skeleton graphs.
